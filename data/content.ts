@@ -5,19 +5,19 @@
 export const featuredSignal = {
   id: "1",
   name: "USD/THB",
-  startTime: "1:00 PM",
-  duration: "6 hrs",
+  startTime: "4:00 PM",
+  duration: "7 hrs",
   winRate: "94%",
-  profit: "36%",
+  profit: "31%",
   description: "The win rate is there to help you make better  decisions on the amount you choose to invest",
-  tags: ["Premium", "High Win Rate", "NOT STARTED"],
+  tags: ["Premium", "High Win Rate", "STARTED"],
 }
 
 // Year to Date Stats
 export const yearToDateStats = {
-  wins: 108,
+  wins: 116,
   losses: 5,
-  successRate: "90%",
+  successRate: "96%",
 }
 
 // Payment Details
