@@ -4,7 +4,7 @@
 // Trading Signal (just one featured signal)
 export const featuredSignal = {
   id: "1",
-  name: "USD/RUB",
+  name: "USD/THB",
   startTime: "4:00 PM",
   duration: "7 hrs",
   winRate: "94%",
@@ -15,7 +15,7 @@ export const featuredSignal = {
 
 // Year to Date Stats
 export const yearToDateStats = {
-  wins: 116,
+  wins: 117,
   losses: 5,
   successRate: "96%",
 }
