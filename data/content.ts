@@ -8,7 +8,7 @@ export const featuredSignal = {
   startTime: "2:00 PM",
   duration: "5 hrs",
   winRate: "91%",
-  profit: "40%",
+  profit: "31%",
   description: "The win rate is there to help you make better  decisions on the amount you choose to invest",
   tags: ["Premium", "High Win Rate", "NOT STARTED"],
 }
