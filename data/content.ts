@@ -10,7 +10,7 @@ export const featuredSignal = {
   winRate: "86%",
   profit: "40%",
   description: "The win rate is there to help you make better  decisions on the amount you choose to invest",
-  tags: ["Premium", "High Win Rate", "NOT STARTED"],
+  tags: ["Premium", "High Win Rate", "STARTED"],
 }
 
 // Year to Date Stats
