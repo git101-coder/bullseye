@@ -4,7 +4,7 @@
 // Trading Signal (just one featured signal)
 export const featuredSignal = {
   id: "1",
-  name: "USD/CH",
+  name: "USD/CHF",
   startTime: "6:00 PM",
   duration: "5 hrs",
   winRate: "90%",
