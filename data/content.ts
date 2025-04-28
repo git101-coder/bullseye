@@ -4,18 +4,18 @@
 // Trading Signal (just one featured signal)
 export const featuredSignal = {
   id: "1",
-  name: "USD/JPY",
-  startTime: "1:00 PM",
-  duration: "10 hrs",
-  winRate: "86%",
+  name: "USD/CH",
+  startTime: "6:00 PM",
+  duration: "5 hrs",
+  winRate: "90%",
   profit: "40%",
   description: "The win rate is there to help you make better  decisions on the amount you choose to invest",
-  tags: ["Premium", "High Win Rate", "STARTED"],
+  tags: ["Premium", "High Win Rate", "NOT STARTED"],
 }
 
 // Year to Date Stats
 export const yearToDateStats = {
-  wins: 118,
+  wins: 119,
   losses: 5,
   successRate: "96%",
 }
