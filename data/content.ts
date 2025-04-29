@@ -5,7 +5,7 @@
 export const featuredSignal = {
   id: "1",
   name: "USD/CHF",
-  startTime: "6:00 PM",
+  startTime: "2:00 PM",
   duration: "5 hrs",
   winRate: "90%",
   profit: "40%",
