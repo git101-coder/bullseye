@@ -4,13 +4,13 @@
 // Trading Signal (just one featured signal)
 export const featuredSignal = {
   id: "1",
-  name: "USD/CHF",
-  startTime: "2:00 PM",
-  duration: "5 hrs",
-  winRate: "90%",
+  name: "USD/RUB",
+  startTime: "7:00 PM",
+  duration: "4 hrs",
+  winRate: "86%",
   profit: "40%",
   description: "The win rate is there to help you make better  decisions on the amount you choose to invest",
-  tags: ["Premium", "High Win Rate", "WON🟢"],
+  tags: ["Premium", "Medium Win Rate", "NOT STARTED"],
 }
 
 // Year to Date Stats
