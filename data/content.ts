@@ -5,17 +5,17 @@
 export const featuredSignal = {
   id: "1",
   name: "USD/RUB",
-  startTime: "7:00 PM",
-  duration: "4 hrs",
-  winRate: "86%",
-  profit: "40%",
+  startTime: "6:00 PM",
+  duration: "5 hrs",
+  winRate: "91%",
+  profit: "30%",
   description: "The win rate is there to help you make better  decisions on the amount you choose to invest",
   tags: ["Premium", "Medium Win Rate", "NOT STARTED"],
 }
 
 // Year to Date Stats
 export const yearToDateStats = {
-  wins: 121,
+  wins: 122,
   losses: 5,
   successRate: "96%",
 }
